@@ -10,6 +10,14 @@
                 "element": {"#": "owner"}
             }
         },
+        "button": {
+            "prototype": "digit/ui/button.reel",
+            "properties": {
+                "element": {"#": "button"},
+                "enabled": true,
+                "label": "Trykk her"
+            }
+        },
         "title": {
             "prototype": "digit/ui/title.reel",
             "properties": {
@@ -23,6 +31,7 @@
 <body>
     <div data-montage-id="owner" class="Template">
         <h1 data-montage-id="title"></h1>
+        <button data-montage-id="button"></button>
     </div>
 </body>
 </html>
