@@ -1,6 +1,6 @@
 .Template {
     width: 630px;
     height:891px;
-    background-color: gray;
+    border:solid 1px #000000;
     position: relative;
 }
