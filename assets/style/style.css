@@ -14,3 +14,11 @@ html {
 body {
     margin: 0; /* Remove default margin */
 }
+
+.boxElement
+{
+    border:dotted 3px #000000;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+}
