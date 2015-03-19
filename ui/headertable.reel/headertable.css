@@ -1,7 +1,7 @@
 .Headertable {
     position:absolute;
-    top:42px;
-    left:25px;
-    width:80px;
-    height:25px;
+    top:126px; // cm i Word x 3 = pixler
+    left:75px;
+    width:240px;
+    height:75px;
 }
